@@ -2,8 +2,8 @@
     "chains": {
         // keys and values reqired for a forked network setup
         "name": "Catalog",
-        "url": "https://rpc.url.com/yoururl", // RPC URL to interact with the chain
-        "chainId": 12345, // not neccessary to be same as original chain
+        "url": "https://api.avax.network/ext/bc/C/rpc", // RPC URL to interact with the chain
+        "chainId": 43114, // not neccessary to be same as original chain
         "port": 18514 // can be same port also but make sure it is available to use
     },
     {
